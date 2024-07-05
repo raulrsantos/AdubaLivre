@@ -1,0 +1,7 @@
+bromelia;crescimento inicial;4/14/8;
+cacto;crescimento inicial;3/7/7;
+araucaria;desenvolvimento vegetativo;4/14/8;
+erva mate;desenvolvimento vegetativo;20/10/10;
+erva mate;reproducao;4/14/8;
+pitangueira;crescimento inicial;10/10/10;
+cafe;desenvolvimento vegetativo;10/10/10;
